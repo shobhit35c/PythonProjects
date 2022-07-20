@@ -1,2 +1,1 @@
-# SummerProject
-Starting my own project with something
+# Multiple Python projects ranging from Calorie calculators to Machine learning applications with contributors!
